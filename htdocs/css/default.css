@@ -1,0 +1,264 @@
+/*basic layout*/
+body, div{
+	margin:0;
+	padding:0;
+	border:none;
+}
+body{
+	min-width:45.0em;
+	background-color:#000;
+	color:#FFFFFF;
+	padding-top:1.5em;
+	padding-bottom:1.5em;
+	font-family:"Trebuchet MS","Arial",sans-serif;
+	background-color:#CCC;
+}
+div#page{
+	background-color:#000;
+	width:85%;
+	max-width:1020px;
+	margin-left:auto;
+	margin-right:auto;
+}
+div#header, div#nav, div#footer{
+	width:100%;
+}
+div#body{
+	width:70%;
+	background-image:url(images/border.gif);
+	background-repeat:repeat-y;
+	background-position:top right;
+}
+
+/*header*/
+div#header{
+	height:150px;
+	background-image:url(images/disc-quarter.png);
+	background-repeat:no-repeat;
+	background-position:0 0;
+}
+div#header h1, div#header h2{
+	text-align:left;
+	margin:0;
+	padding:0;
+	height:50%;
+	margin-left:220px;
+	font-size:1.2em;
+	line-height:2.2em;
+	vertical-align:middle;
+	text-align:center;
+}
+div#header h1{
+	text-transform:uppercase;
+	font-size:3.0em;
+}
+div#header h1 a:hover{
+	text-decoration:none;
+}
+
+/*navigation*/
+div#nav, div#nav ul, div#nav ul li{
+	height:30px;
+	margin:0;
+}
+div#nav{
+	background-color:#85776B;
+	border-top:2px solid #2C2825;
+	border-bottom:2px solid #2C2825;
+	background-repeat:repeat-x;
+}
+div#nav ul{
+	display:table;
+	table-layout:auto;
+	margin:0 auto;
+	padding:0;
+	height:100%;
+	border-left:2px solid #2C2825;
+}
+div#nav ul li{
+	display:inline;	
+	float:left;
+	margin:0;
+	border-right:2px solid #2C2825;
+	list-style:none;
+}
+div#nav ul li a{
+	color:#000;
+	margin-left:0.5em;
+	margin-right:0.5em;
+	padding:0.2em;
+	line-height:30px;
+	vertical-align:middle;
+}
+div#nav ul li a.icon{
+	padding:5px 0.2em 5px 24px;
+	background-repeat:no-repeat;
+	background-position:center left;
+	background-image:none; 
+}
+div#nav ul li a.home{
+	background-image:url(images/home.png);
+}
+div#nav ul li a.about{
+	background-image:url(images/about.png);
+}
+div#nav ul li a.calendar{
+	background-image:url(images/calendar.png);
+}
+div#nav ul li a.info{
+	background-image:url(images/info.png);
+}
+div#nav ul li a.contact{
+	background-image:url(images/contact.png);
+}
+
+
+/*shortcuts*/
+div#body div.shortcuts{
+	border-bottom:2px solid #423935;
+	width:80%;
+	margin:0.5em;
+	margin-left:auto;
+	margin-right:auto;
+}
+div#body div.shortcuts ul{
+	padding:0.5em;
+	margin:0;
+	margin-left:auto;
+	margin-right:auto;
+	display:table;
+	table-layout:auto;
+}
+div#body div.shortcuts ul li{
+	display:inline;
+	list-style:none;
+	margin-left:1.0em;
+	margin-right:1.0em;
+}
+
+/*news*/
+div#news{
+	width:29.5%;
+	float:right;
+}
+
+/*text layout*/
+div#body, div#news{
+	min-height:50.0em;
+	font-size:0.8em;
+}
+h3, h4, p{
+	margin-left:10px;
+	margin-right:10px;
+}
+h3, h4{
+	clear:left;
+}
+
+/*footer*/
+div#footer{
+		border-top:2px solid #2C2825;
+		clear:both;
+}
+div#footer *{
+	margin:0.5em;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	font-size:small;
+}
+div#footer p{
+	width:66%;
+	margin:0.2em auto;
+}
+div#footer p a{
+    border:none;
+}
+
+/*links*/
+a, a:link, a:visited{
+	color:#FFFFFF;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+}
+
+
+iframe, table{
+	margin-left:auto;
+	margin-right:auto;
+}
+table{
+	border-collapse:collapse;
+}
+img{
+	border:none;
+}
+.left{
+	float:left;margin:1.0em;
+}
+.right{
+	float:right;margin:1.0em;
+}
+p{
+	margin-bottom:0.8em;
+	margin-left:20px;
+	text-align:justify;
+}
+p a, p a:link, p a:visited{
+	padding-left:0.2em;
+	padding-right:0.2em;
+	border:2px solid #333333;
+}
+p a.link{
+	padding:3px 24px 3px 0.2em;
+	background-repeat:no-repeat;
+	background-position:center right;
+	background-image:none; 
+	line-height:2.0em;
+}
+p a.pdf{
+	background-image:url(images/pdf.gif);
+}
+p a.external{
+	background-image:url(images/external.png);
+}
+p a.email{
+	background-image:url(images/email.png);
+}
+p a.internal{
+	background-image:url(images/internal.png);
+}
+form{
+	width:80%;
+	margin:auto;
+	padding:0.5em;
+	text-align:center;
+	border:2px solid #333333;
+}
+.comment{
+	font-size:0.8em;
+	color:#DDDDDD;
+}
+div#body li{
+	list-style-position:outside;
+	list-style-type:circle;
+	margin-left:10px;
+	list-style-image:url(images/disc-small.png);
+}
+div#body li.notext{
+	list-style:none;
+	margin-left:0;
+}
+div#body li.ical, div#body li.xml{
+	list-style-position:outside;
+	list-style-type:square;
+	margin-left:30px;
+}
+div#body li.ical{
+	list-style-image:url(images/ical.gif);
+}
+div#body li.xml{
+	list-style-image:url(images/xml.gif);
+}

@@ -1,0 +1,67 @@
+
+/* WRAPPER
+************************************************************************************************ */
+
+div.fs { background: #E8E8E8 !important; }
+
+/* WRAPPER - LOADING
+************************************************************************************************ */
+
+div.fs div.fsLoading { 
+	background: #000000 url(images/loading.gif) 50% 50% no-repeat!important;
+	z-index: 500;
+}
+
+div.fsLoaded-0 div.fsLoading 	{ background-image: url(images/loading.gif) !important; }
+div.fsLoaded-1 div.fsLoading 	{ background-image: url(images/loading.gif) !important; }
+div.fsLoaded-2 div.fsLoading 	{ background-image: url(images/loading.gif) !important; }
+div.fsLoaded-3 div.fsLoading 	{ background-image: url(images/loading.gif) !important; }
+div.fsLoaded-4 div.fsLoading 	{ background-image: url(images/loading.gif) !important; }
+div.fsLoaded-5 div.fsLoading 	{ background-image: url(images/loading.gif) !important; }
+div.fsLoaded-6 div.fsLoading 	{ background-image: url(images/loading.gif) !important; }
+div.fsLoaded-7 div.fsLoading 	{ background-image: url(images/loading.gif) !important; }
+div.fsLoaded-8 div.fsLoading 	{ background-image: url(images/loading.gif) !important; }
+div.fsLoaded-9 div.fsLoading 	{ background-image: url(images/loading.gif) !important; }
+div.fsLoaded-10 div.fsLoading 	{ background-image: url(images/loading.gif) !important; }
+
+
+/* WRAPPER - SLIDER
+************************************************************************************************ */
+
+div.fs div.fsSlider { background: #171717 none !important; }
+
+div.fs div.fsSliderH { 
+	background: #0099CC !important; 
+	cursor: pointer;
+}
+
+/* WRAPPER - BUTTONS
+************************************************************************************************ */
+
+div.fs ol.fsButtons { background: #000000; }
+
+div.fs ol.fsButtons li {
+	background: #000000 50% 50% no-repeat;
+	overflow: hidden;
+	text-indent: -999px;
+	z-index: 300;
+}
+
+div.fs ol.fsButtons li.fsButtonA { background-image: url("http://v6.flickrshow.com/themes/blue/ip.gif") !important; }
+div.fs ol.fsButtons li.fsButtonB { background-image: url("http://v6.flickrshow.com/themes/blue/ir.gif") !important; }
+div.fs ol.fsButtons li.fsButtonC { background-image: url("http://v6.flickrshow.com/themes/blue/il.gif") !important; }
+
+div.fsPlaying ol.fsButtons li.fsButtonA { background-image: url("http://v6.flickrshow.com/themes/blue/is.gif") !important; }
+
+/* WRAPPER - IMAGES
+************************************************************************************************ */
+
+div.fs ol.fsImages { background: #000000; }
+
+div.fs ol.fsImages li h2 {
+	color: #2E2E2E !important;
+	font-family:"Trebuchet MS","Arial",sans-serif;
+	font-weight: lighter;
+	overflow: hidden;
+	z-index: 200;
+}
