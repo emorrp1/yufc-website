@@ -37,7 +37,7 @@
 </tr></tbody></table>
 
 <h3 id="email">Email</h3>
-<p><a class="email link" href="mailto:socs311@york.ac.uk">Click here to email us</a></p>
+<p><a class="email link" href="mailto:info@yorkultimate.co.uk">Click here to email us</a></p>
 
 <?php
 	include('footer.php');
