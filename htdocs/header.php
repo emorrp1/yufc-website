@@ -62,7 +62,7 @@
 					<p><a class="comment" href="http://www.flickr.com/search/?q=york+ultimate+frisbee">Click here if you can't see the slideshow</a></p>
 				</div>
 				<p>
-					<a class="external link comment" target="_blank" href="http://www.flickr.com/slideShow/index.gne?tags=york,ultimate,frisbee">More photos...</a>
+					<a class="external link comment" target="_blank" href="http://www.flickr.com/slideShow/index.gne?tags=york,ultimate,frisbee" onclick="window.open('http://www.flickr.com/slideShow/index.gne?tags=york,ultimate,frisbee','yorkultimatephotos','height=540,width=450,scrollbars=no,menubar=no,status=no,toolbar=no,titlebar=no');return false;">More photos...</a>
 				</p>
 			</div>
 			<div id="body">
