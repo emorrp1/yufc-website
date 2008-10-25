@@ -24,7 +24,7 @@
 <p>Here you can see what we're up to in the near future including <b>socials</b>, <b>training</b> and <b>tournaments</b>.</p>
 <p style="text-align:center;">
 	<!-- following provided by Google Calendar : http://www.google.com/calendar/embedhelper -->
-	<iframe src="http://www.google.com/calendar/embed?title=York%20Ultimate&amp;showTitle=0&amp;showDate=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23000000&amp;src=qhvtkilcl3gvtlfvhi2id2oveo%40group.calendar.google.com&amp;color=%23A32929&amp;src=or4qdk6tsdqr6hcmlprufhjjvg%40group.calendar.google.com&amp;color=%234E5D6C&amp;ctz=Europe%2FLondon" style="border:none;" width="90%" height="400" frameborder="0" scrolling="no"></iframe>
+	<iframe src="http://www.google.com/calendar/embed?title=York%20Ultimate&amp;showTitle=0&amp;showDate=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=400&amp;wkst=2&amp;bgcolor=%23000000&amp;src=qhvtkilcl3gvtlfvhi2id2oveo%40group.calendar.google.com&amp;color=%23A32929&amp;src=or4qdk6tsdqr6hcmlprufhjjvg%40group.calendar.google.com&amp;color=%234E5D6C&amp;ctz=Europe%2FLondon" style="border:none;" width="90%" height="400" frameborder="0" scrolling="no"></iframe>
 </p>
 <p>
 	<span class="comment">Outdoor training takes place on 22 Acres (next to Halifax College) and Indoor training is in the Sport Centre.</span>
