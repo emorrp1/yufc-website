@@ -5,7 +5,7 @@ body, div{
 	border:none;
 }
 body{
-	min-width:45.0em;
+	min-width:52.0em;
 	background-color:#000;
 	color:#FFFFFF;
 	padding-top:1.5em;
@@ -146,6 +146,12 @@ div#news{
 div#body, div#news{
 	min-height:50.0em;
 	font-size:0.8em;
+}
+h2 {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	font-size:2.5em;
 }
 h3, h4, p{
 	margin-left:10px;
