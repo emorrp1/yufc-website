@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PAGES="index about info calendar contact"
+PAGES="index about info calendar contact yorkindoors09"
 FOLDERS="images css documents"
 LAST_UPDATED_FILE="lastupdated.txt"
 
