@@ -30,7 +30,7 @@
 </p>
 
 <h3 id="captainspack">Captains' Pack</h3>
-<p>Not available yet! Please check back later.</p>
+<p>Click <a class="pdf link" href="documents/york_indoors/captains_pack.pdf">here</a> to download the Captains' Pack.</p>
 
 <h3 id="contact">Contact Information</h3>
 <p>If you have any queries please don't hesitate to email the TD, <a class="email link" href="mailto:info@yorkultimate.co.uk">Nadav</a>.</p>

@@ -50,7 +50,7 @@
 						<a class="info icon" href="info.php">Useful Info</a>
 					</li>
 					<li>
-						<a class="info icon" href="yorkindoors09.php">Tournament</a>
+						<a class="info icon" href="yorkindoors09.php">YI 2009</a>
 					</li>
 					<li>
 						<a class="contact icon" href="contact.php">Contact Us</a>
