@@ -18,7 +18,7 @@
 <h2>York Indoors 2009</h2>
 
 <h3 id="intro">The Tournament</h3>
-<p>We hope you all enjoyed playing York Indoors, even though it was freeing cold! See you next year!</p>
+<p>We hope you all enjoyed playing York Indoors, even though it was freezing cold! See you next year!</p>
 
 <!--
 <h3 id="location">Location</h3>
