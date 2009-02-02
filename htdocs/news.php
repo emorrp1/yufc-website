@@ -1,5 +1,5 @@
 <p>
-	York Indoors was a blast! Thanks to everyone that played.
+	Outdoor regionals was great fun and we played very well. Only just missed out on qualifying for nationals!
 </p>
 <?php /*
 <p>
