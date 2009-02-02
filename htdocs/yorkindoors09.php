@@ -7,24 +7,20 @@
 <div class="shortcuts">
 	<ul>
 		<li><a href="#intro">The Tournament</a></li>
-		<li><a href="#schedule">Schedule</a></li>
-		<li><a href="#captainspack">Captains' Pack</a></li>
+		<!--
 		<li><a href="#location">Location</a></li>
+		<li><a href="#captainspack">Captains' Pack</a></li>
 		<li><a href="#contact">Contact</a></li>
+		-->
 	</ul>
 </div>
 
 <h2>York Indoors 2009</h2>
 
 <h3 id="intro">The Tournament</h3>
-<p>The infamous York Indoors tournament is back, and there's no better way to kick off 2009! It takes place on the 10th and 11th of January, costing and accommodation will be in the warm and loving homes of York Ultimate players. <a class="email link" href="mailto:info@yorkultimate.co.uk">Email us</a> if you're interested.</p>
+<p>We hope you all enjoyed playing York Indoors, even though it was freeing cold! See you next year!</p>
 
-<h3 id="schedule">Schedule</h3>
-<p>Click <a class="pdf link" href="documents/york_indoors/schedule.pdf">here</a> to download the Schedule.</p>
-
-<h3 id="captainspack">Captains' Pack</h3>
-<p>Click <a class="pdf link" href="documents/york_indoors/captains_pack.pdf">here</a> to download the Captains' Pack.</p>
-
+<!--
 <h3 id="location">Location</h3>
 <p>The tournament will take place in the Sports Centre (on the south side of campus) at the <a class="external link" href="http://maps.google.com/maps?oi=map&amp;q=yo10+5dd%2C+uk">University of York</a>.</p>
 <p style="text-align:center;">
@@ -36,8 +32,13 @@
 	</small>
 </p>
 
+<h3 id="captainspack">Captains' Pack</h3>
+<p>Click <a class="pdf link" href="documents/york_indoors/captains_pack.pdf">here</a> to download the Captains' Pack.</p>
+
 <h3 id="contact">Contact Information</h3>
 <p>If you have any queries please don't hesitate to email the TD, <a class="email link" href="mailto:info@yorkultimate.co.uk">Nadav</a>.</p>
+
+-->
 
 <?php
 	include('footer.php');

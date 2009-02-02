@@ -1,6 +1,5 @@
 <p>
-	<a class="internal link" href="yorkindoors09.php">YORK INDOORS</a> starts on Saturday.
-	It's going to be <i>awesome</i>!
+	York Indoors was a blast! Thanks to everyone that played.
 </p>
 <?php /*
 <p>
