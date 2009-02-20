@@ -1,8 +1,6 @@
 <p>
-	Outdoor regionals was great fun and we played very well. Only just missed out on qualifying for nationals!
+	Roses is coming in week 2, and this year it's in York!
 </p>
-<?php /*
 <p>
 	<a class="internal link" href="calendar.php#calendar">Calendar</a>
 </p>
-*/ ?>
