@@ -19,6 +19,7 @@ div#page{
 	max-width:1020px;
 	margin-left:auto;
 	margin-right:auto;
+	border:6px solid #FFF;
 }
 div#header, div#nav, div#footer{
 	width:100%;
@@ -45,7 +46,7 @@ div#header{
 	height:150px;
 	background-image:url(images/disc-quarter.png);
 	background-repeat:no-repeat;
-	background-position:-4px 0;
+	background-position:-1px 0;
 }
 div#header h1, div#header h2{
 	text-align:left;
