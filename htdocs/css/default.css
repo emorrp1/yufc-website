@@ -30,12 +30,22 @@ div#body{
 	background-position:top right;
 }
 
+/* borders */
+div#page{
+	-webkit-border-radius: 26px;
+	-moz-border-radius: 26px;
+}
+div#header{
+	-moz-border-radius-topleft: 26px;
+	-webkit-border-top-left-radius: 26px;
+}
+
 /*header*/
 div#header{
 	height:150px;
 	background-image:url(images/disc-quarter.png);
 	background-repeat:no-repeat;
-	background-position:4px 4px;
+	background-position:-2px 0;
 }
 div#header h1, div#header h2{
 	text-align:left;
