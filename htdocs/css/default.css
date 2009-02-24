@@ -45,7 +45,7 @@ div#header{
 	height:150px;
 	background-image:url(images/disc-quarter.png);
 	background-repeat:no-repeat;
-	background-position:-2px 0;
+	background-position:-4px 0;
 }
 div#header h1, div#header h2{
 	text-align:left;
