@@ -6,12 +6,12 @@ body, div{
 }
 body{
 	min-width:52.0em;
-	background-color:#000;
 	color:#FFFFFF;
 	padding-top:1.5em;
 	padding-bottom:1.5em;
 	font-family:"Trebuchet MS","Arial",sans-serif;
 	background-color:#CCC;
+	background-image:url(images/grass.jpg);
 }
 div#page{
 	background-color:#000;
@@ -35,7 +35,7 @@ div#header{
 	height:150px;
 	background-image:url(images/disc-quarter.png);
 	background-repeat:no-repeat;
-	background-position:0 0;
+	background-position:4px 4px;
 }
 div#header h1, div#header h2{
 	text-align:left;
