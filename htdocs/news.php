@@ -1,5 +1,5 @@
 <p>
-	This week is <b>beginners week</b>! <i>Anybody is welcome</i> to come to any of our training sessions and give Ultimate a go. Don't worry, we'll show you the ropes!
+	Weekend training is now on <b>SATURDAY</b> at <b>11:00am</b> at <b>22 Acres</b>, instead of Sunday training. See you there!
 </p>
 <p>
 	<a class="internal link" href="calendar.php#calendar">Calendar</a>

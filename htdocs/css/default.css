@@ -152,13 +152,19 @@ div#news{
 	width:29.5%;
 	float:right;
 }
+div#news div#slideshow{
+	height:250px;
+	width:92%;
+	margin-left:auto;
+	margin-right:auto;
+}
 
 /*text layout*/
 div#body, div#news{
 	min-height:50.0em;
 	font-size:0.8em;
 }
-h2 {
+h2{
 	margin-left:auto;
 	margin-right:auto;
 	text-align:center;

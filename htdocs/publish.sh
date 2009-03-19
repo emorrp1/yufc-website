@@ -1,7 +1,7 @@
 #!/bin/bash
 
 PAGES="index about info calendar contact yorkindoors09"
-FOLDERS="images css documents"
+FOLDERS="images css documents js"
 LAST_UPDATED_FILE="lastupdated.txt"
 
 OUTPUT_DIR="./pub"

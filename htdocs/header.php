@@ -12,15 +12,22 @@
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
 		*/ ?>
 		<link rel="stylesheet" type="text/css" href="css/flickrshow.css" /> <!-- http://www.flickrshow.com -->
-		<script type="text/javascript" src="http://v6.flickrshow.com/scripts/with/"></script>
-		<script type="text/javascript">
+		<link rel="alternate" href="http://api.flickr.com/services/feeds/photos_public.gne?tags=york%2Cultimate%2Cfrisbee" type="application/rss+xml" title="" id="gallery" />
+		<script type="text/javascript" src="js/cookies.js"></script>
+		<script type="text/javascript" src="http://v6.flickrshow.com/scripts/with/" defer="defer"></script>
+		<script type="text/javascript" defer="defer">
 		//<![CDATA[
 				var cesc = new flickrshow("slideshow", {flickr_tags:"york,ultimate,frisbee", speed:4, theme:"none"});
 				// start the slideshow when UI loaded
 				Event.observe(window, 'load', function(){	// uses Prototype (included in flickrshow)
 					var sl = setInterval(function() {
 						if (cesc && cesc.fs && cesc.fs.buttons == 1) {
+							lastImage = getCookie("lastImage");
+							if (lastImage != "") {cesc.slideManual(lastImage);}
 							cesc.clickPlay();
+							setInterval(function() {
+								setCookie("lastImage",cesc.cs.viewed,1);
+							}, 4000);
 							clearInterval(sl);
 						}}, 600);
 				});
@@ -61,7 +68,7 @@
 				<h3>News</h3>
 				<?php include('news.php'); ?>
 				<h3>Photos</h3>
-				<div id="slideshow" style="height:250px;width:92%;margin-left:auto;margin-right:auto;">
+				<div id="slideshow">
 					<p><a class="comment" href="http://www.flickr.com/search/?q=york+ultimate+frisbee&amp;m=tags">Click here if you can't see the slideshow</a></p>
 				</div>
 				<p>
