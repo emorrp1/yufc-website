@@ -1,6 +1,8 @@
 <p>
-	Weekend training is now on <b>SATURDAY</b> at <b>11:00am</b> at <b>22 Acres</b>, instead of Sunday training. See you there!
+	If you're in York over the Easter holidays join <a class="external link" href="http://www.facebook.com/group.php?gid=61926381743">this Facebook group</a>
 </p>
+<!--
 <p>
 	<a class="internal link" href="calendar.php#calendar">Calendar</a>
 </p>
+-->
