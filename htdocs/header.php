@@ -14,25 +14,6 @@
 		<link rel="stylesheet" type="text/css" href="css/flickrshow.css" /> <!-- http://www.flickrshow.com -->
 		<link rel="alternate" href="http://api.flickr.com/services/feeds/photos_public.gne?tags=york%2Cultimate%2Cfrisbee" type="application/rss+xml" title="" id="gallery" />
 		<script type="text/javascript" src="js/cookies.js"></script>
-		<script type="text/javascript" src="http://v6.flickrshow.com/scripts/with/" defer="defer"></script>
-		<script type="text/javascript" defer="defer">
-		//<![CDATA[
-				var cesc = new flickrshow("slideshow", {flickr_tags:"york,ultimate,frisbee", speed:4, theme:"none"});
-				// start the slideshow when UI loaded
-				Event.observe(window, 'load', function(){	// uses Prototype (included in flickrshow)
-					var sl = setInterval(function() {
-						if (cesc && cesc.fs && cesc.fs.buttons == 1) {
-							lastImage = getCookie("lastImage");
-							if (lastImage != "") {cesc.slideManual(lastImage);}
-							cesc.clickPlay();
-							setInterval(function() {
-								setCookie("lastImage",cesc.cs.viewed,1);
-							}, 4000);
-							clearInterval(sl);
-						}}, 600);
-				});
-		//]]>
-		</script>
 		<link rel="shortcut icon" href="images/favicon.ico"/>
 		<?php echo $head_include; ?>
 	</head>
