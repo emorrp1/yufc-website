@@ -25,7 +25,7 @@
 <h3 id="rules">Rules</h3>
 <p>Visit the <a class="external link thickbox" href="http://www.ukultimate.com/?KeepThis=true&amp;TB_iframe=true&amp;height=400&amp;width=600">UKUA</a> website to find out the <a class="external link" href="http://www.ukultimate.com/about_ultimate/basic_rules">basic rules</a> of Ultimate and about <a class="external link" href="http://www.ukultimate.com/about_ultimate/spirit_of_the_game">spirit of the game</a>.</p>
 <p>Alternatively, visit <a class="external link" href="http://en.wikipedia.org/wiki/Ultimate_(sport)">Wikipedia</a> or <a class="external link" href="http://www.whatisultimate.com">whatisultimate.com</a> for more details.</p>
-<p>The <i>official</i> rules can be downloaded <a class="pdf link" href="documents/WFDF_Ultimate_Rules_2008_Official_Version.pdf">here</a> and indoor variations can be found <a class="external link" href="http://www.ukultimate.com/system/files/UKUA+INDOOR+Ultimate+Rules+2007.pdf">here</a>.</p>
+<p>The <i>official</i> rules can be found <a class="pdf link" href="http://www.wfdf.org/rules/WFDF%20Rules%20of%20Ultimate%202009.pdf">here</a> and indoor variations can be found <a class="external link" href="http://www.ukultimate.com/system/files/UKUA+INDOOR+Ultimate+Rules+2007.pdf">here</a>.</p>
 
 <?php
 	include('footer.php');
