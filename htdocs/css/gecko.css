@@ -1,0 +1,7 @@
+/* borders */
+div#page{
+	-moz-border-radius: 26px;
+}
+div#header{
+	-moz-border-radius-topleft: 26px;
+}

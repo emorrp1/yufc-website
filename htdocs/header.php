@@ -16,6 +16,8 @@
 		<script type="text/javascript" src="js/cookies.js"></script>
 		<link rel="shortcut icon" href="images/favicon.ico"/>
 		<?php echo $head_include; ?>
+		<link rel="stylesheet" type="text/css" href="css/gecko.css" />
+		<link rel="stylesheet" type="text/css" href="css/webkit.css" />
 	</head>
 	<body>
 		<div id="page">

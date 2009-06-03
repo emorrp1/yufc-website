@@ -1,0 +1,7 @@
+/* borders */
+div#page{
+	-webkit-border-radius: 26px;
+}
+div#header{
+	-webkit-border-top-left-radius: 26px;
+}

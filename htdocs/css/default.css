@@ -31,16 +31,6 @@ div#body{
 	background-position:top right;
 }
 
-/* borders */
-div#page{
-	-webkit-border-radius: 26px;
-	-moz-border-radius: 26px;
-}
-div#header{
-	-moz-border-radius-topleft: 26px;
-	-webkit-border-top-left-radius: 26px;
-}
-
 /*header*/
 div#header{
 	height:150px;
