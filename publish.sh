@@ -24,3 +24,6 @@ for folder in $FOLDERS ; do
 	rm -rf "$dest""/""$folder";
 	cp -rf "./$folder" "$dest""/""$folder";
 done;
+
+chmod -R o+r "$OUTPUT_DIR"
+find pub -type d -exec chmod o+x '{}' \;
