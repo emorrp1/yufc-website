@@ -24,10 +24,3 @@ for folder in $FOLDERS ; do
 	rm -rf "$dest""/""$folder";
 	cp -rf "./$folder" "$dest""/""$folder";
 done;
-
-#if [ $TERM_PROGRAM != "Apple_Terminal" ] ; then
-	for svnfolder in `find -iregex "^[.\\/]*pub[\\/].+\.svn$"` ; do
-		echo "Deleting ""$svnfolder";
-		rm -rf $svnfolder;
-	done;
-#fi;
