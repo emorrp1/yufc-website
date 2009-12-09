@@ -69,15 +69,15 @@
 		;
 	}
 ?>
-		<?php committeeMember("Jack Mills", "Sideshow/Sparrow", array("Captain"), "jack.jpg"); ?>
-		<?php committeeMember("Richard Cutcher", "Cutch", array("Vice Captain"), "cutch.jpg"); ?>
-		<?php committeeMember("Deborah Sharpe", "Debs", array("Women's Captain"), "debs.jpg"); ?>
-		<?php committeeMember("Chetan Padia", "The Doctor", array("President"), "chetan.jpg"); ?>
-		<?php committeeMember("Nadav Atik", "Nadav", array("Secretary"), "nadav.jpg"); ?>
-		<?php committeeMember("Daniel Peet", "Dan P", array("Treasurer"), "dan.jpg"); ?>
-		<?php committeeMember("Jamie Abernethy", "Jamie", array("Social Secretary", "Press &amp; Publicity"), "jamie.jpg"); ?>
-		<?php committeeMember("Mark Heslop", "Statto", array("Merchandise"), "statto.jpg"); ?>
-		<?php committeeMember("David Butler", "Indoor Dave", array("Webmaster"), "david.jpg"); ?>
+		<?php committeeMember("Jamie Abernethy", "Jamie",        array("Captain"),                      "jamie.jpg"); ?>
+		<?php committeeMember("Deborah Sharpe",  "Debs",         array("Women's Captain", "Secretary"), "debs.jpg"); ?>
+		<?php committeeMember("David Butler",    "Indoor Dave",  array("Vice Captain"),                 "indoor.jpg"); ?>
+		<?php committeeMember("Hamish MacIver",  "Hamish",       array("President"),                    "hamish.jpg"); ?>
+		<?php committeeMember("Dave Chandler",   "Generic Dave", array("Treasurer", "Merchandise"),     "generic.jpg"); ?>
+		<?php committeeMember("Jessica Bonham",  "Jess",         array("Social Secretary"),             "jess.jpg"); ?>
+		<?php committeeMember("Chris Young",     "Chris",        array("Press &amp; Publicity"),        "chris.jpg"); ?>
+		<?php committeeMember("Philip Morrell",  "Pem",          array("Webmaster"),                    "pem.jpg"); ?>
+
 	</tbody>
 </table>
 
