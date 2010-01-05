@@ -7,8 +7,10 @@
 <div class="shortcuts">
 	<ul>
 		<li><a href="#training">Training</a></li>
+<!--
 		<li><a href="#calendar">Upcoming events</a></li>
 		<li><a href="#feeds">Calendar feeds</a></li>
+-->
 	</ul>
 </div>
 
