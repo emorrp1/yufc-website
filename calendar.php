@@ -13,12 +13,13 @@
 </div>
 
 <h3 id="training">Training</h3>
-<p>
-	Regular <b>outdoor</b> training during term time is on <b>Wednesday and Sunday</b> afternoons at <b>1:30pm</b> on <b>22 Acres</b> (outside Halifx College).
-</p>
-<p>
-	<b>Indoor</b> training is on <b>Friday at 6:30pm</b> and <b>Sunday at 7:30pm</b> in the tent in the <b>Sports Centre</b>.  
-</p>
+<ul>
+		<li><b>Tue 6:30</b> : Fitness @ Running track (near the sports centre)</li>
+		<li><b>Tue 7:30</b> : Women's @ Sports Centre Tent</li>
+		<li><b>Wed 1:30</b> : Outdoor @ 22 Acres (near Halifax)</li>
+		<li><b>Fri 7:30</b> : Indoors @ Sports Centre Tent</li>
+		<li><b>Sat 10am</b> : Pick-Up @ 22 Acres (near Halifax)</li>
+</ul>
 
 <h3 id="calendar">Upcoming events</h3>
 <p>Here you can see what we're up to in the near future including <b>socials</b>, <b>training</b> and <b>tournaments</b>.</p>
