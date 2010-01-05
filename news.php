@@ -1,7 +1,3 @@
 <p>
-	Training is back to normal and beginners are most welcome! Click to link below to find out when we're playing next!
+	York is hosting an indoor tournament in the Tent the weekend before Spring Term starts, feel free to come along to spectate and support our teams. Training times have also been updated for the Spring Term, so no excuses for not giving it a go.
 </p>
-<p>
-	<a class="internal link" href="calendar.php#calendar">Calendar</a>
-</p>
-
