@@ -17,11 +17,11 @@
 <h3 id="training">Training</h3>
 <p><span class="comment">All our training sessions are open to everyone, so feel free to come along and bring friends, even if you have never played Ultimate before. Occasionally, in the run up to a tournament, a training session will be reserved for the teams attending, so check the current news first.</span></p>
 <ul>
-		<li><b>Tue 6:30</b> : Fitness @ Running track (near the sports centre)</li>
-		<li><b>Tue 7:30</b> : Women's @ Sports Centre Tent</li>
-		<li><b>Wed 1:30</b> : Outdoor @ 22 Acres (near Halifax)</li>
-		<li><b>Fri 7:30</b> : Indoors @ Sports Centre Tent</li>
-		<li><b>Sat 10am</b> : Pick-Up @ 22 Acres (near Halifax)</li>
+		<li><b>Tuesday 6:30</b> : Fitness@ Running track (near the sports centre)</li>
+		<li><b>Tuesday 7:30</b> : Women's @ Sports Centre Tent</li>
+		<li><b>Wednesday 1:30</b> : Outdoors @ 22 Acres (near Halifax)</li>
+		<li><b>Friday 7:30</b> : Indoors @ Sports Centre Tent</li>
+		<li><b>Saturday 10am</b> : Pick-Up Game @ 22 Acres (near Halifax)</li>
 </ul>
 
 <!--
