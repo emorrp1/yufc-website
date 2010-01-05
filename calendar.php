@@ -22,6 +22,7 @@
 		<li><b>Sat 10am</b> : Pick-Up @ 22 Acres (near Halifax)</li>
 </ul>
 
+<!--
 <h3 id="calendar">Upcoming events</h3>
 <p>Here you can see what we're up to in the near future including <b>socials</b>, <b>training</b> and <b>tournaments</b>.</p>
 <p style="text-align:center;">
@@ -44,6 +45,7 @@
 		<p class="comment">You can use these feeds to automatically import York Ultimate events into your calendar!</p>
 	</td>
 </tr></tbody></table>
+-->
 
 <?php
 	include('footer.php');
