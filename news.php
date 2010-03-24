@@ -1,3 +1,3 @@
 <p>
-	York is hosting an indoor tournament in the Tent the weekend before Spring Term starts, feel free to come along to spectate and support our teams. Training times have also been updated for the Spring Term, so no excuses for not giving it a go.
+	York Ultimate excelled this Spring, reaching 6th in University Mixed Indoor Nationals in Glasgow, whilst winning the Spirit of the Game award and entering many other tournaments, both serious and fun!
 </p>
