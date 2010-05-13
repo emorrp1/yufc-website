@@ -25,7 +25,7 @@
 	Once "Turned Over" play re-commences straight away, with the defending team now on offence.
 </p>
 <p>
-	See <a class="internal link" href="info.php#rules">Useful Info</a> for the finer details.
+	See <a href="info.php#rules">Useful Info</a> for the finer details.
 </p>
 
 <h3 id="spirit">Spirit of the Game</h3>
@@ -36,7 +36,7 @@
 	</p>
 
 <h3 id="play">I Want to Play!</h3>
-<p>Want to give it a go? Don't be shy, we won't bite! Have a look and see when the next training session or social is on the <a class="internal link" href="calendar.php">Calendar</a> and join the <a class="internal link" href="contact.php#yahoo">Yahoo Group</a> for updates.</p>
+<p>Want to give it a go? Don't be shy, we won't bite! Have a look and see when the next training session or social is on the <a href="calendar.php">Calendar</a> and join the <a href="contact.php#yahoo">Yahoo Group</a> for updates.</p>
 
 <?php
 	include('footer.php');

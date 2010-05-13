@@ -22,8 +22,8 @@
 	<body>
 		<div id="page">
 			<div id="header">
-				<h1><a href="index.php">York Ultimate</a></h1>
-				<h2><a href="http://www.york.ac.uk">University of York</a> Ultimate Frisbee Club</h2>
+				<h1><a class="nocolor" href="index.php">York Ultimate</a></h1>
+				<h2><a class="nocolor" href="http://www.york.ac.uk">University of York</a> Ultimate Frisbee Club</h2>
 			</div>
 			<div id="nav">
 				<ul>

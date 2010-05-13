@@ -189,14 +189,14 @@ div#footer p a{
 }
 
 /*links*/
-a, a:link, a:visited{
+a.nocolor, a.nocolor:link, a.nocolor:visited,
+div.shortcuts a, div.shortcuts a:link, div.shortcuts a:visited {
 	color:#FFFFFF;
 	text-decoration:none;
 }
-a:hover{
+a.nocolor:hover, div.shortcuts a:hover{
 	text-decoration:underline;
 }
-
 
 iframe, table{
 	margin-left:auto;
@@ -222,7 +222,6 @@ p{
 p a, p a:link, p a:visited{
 	padding-left:0.2em;
 	padding-right:0.2em;
-	border:2px solid #333333;
 }
 p a.link{
 	padding:3px 24px 3px 0.2em;
@@ -239,9 +238,6 @@ p a.external{
 }
 p a.email{
 	background-image:url(images/email.png);
-}
-p a.internal{
-	background-image:url(images/internal.png);
 }
 form{
 	width:80%;

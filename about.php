@@ -23,10 +23,10 @@
 	We're not just about the sport - we like to have a laugh too! We usually have a few socials per term beginning with the legenedary <b>3-legged bar crawl</b>!
 </p>
 <p>
-	Did you know you can get 3 pints of liquid into a standard disc? No? Then you need to be educated in the ways of the <a href="http://www.wikihow.com/Do-the-3-Pint-Challenge"><b>3-pint challenge</b></a>, my friend.
+	Did you know you can get 3 pints of liquid into a standard disc? No? Then you need to be educated in the ways of the <a class="external link" href="http://www.wikihow.com/Do-the-3-Pint-Challenge"><b>3-pint challenge</b></a>, my friend.
 </p>
 <p>
-	<span class="comment">Check out the <a class="internal link" href="calendar.php#calendar">Calendar</a> to see when the upcoming socials are.</span>
+	<span class="comment">Check out the <a href="calendar.php#calendar">Calendar</a> to see when the upcoming socials are.</span>
 </p>
 
 <h3 id="teams">Teams</h3>
