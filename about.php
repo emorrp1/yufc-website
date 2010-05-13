@@ -69,14 +69,16 @@
 		;
 	}
 ?>
-		<?php committeeMember("Jamie Abernethy", "Jamie",        array("Captain"),                      "jamie.jpg"); ?>
-		<?php committeeMember("Deborah Sharpe",  "Debs",         array("Women's Captain", "Secretary"), "debs.jpg"); ?>
-		<?php committeeMember("David Butler",    "Indoor Dave",  array("Vice Captain"),                 "indoor.jpg"); ?>
-		<?php committeeMember("Hamish MacIver",  "Hamish",       array("President"),                    "hamish.jpg"); ?>
-		<?php committeeMember("Dave Chandler",   "Generic Dave", array("Treasurer", "Merchandise"),     "generic.jpg"); ?>
-		<?php committeeMember("Jessica Bonham",  "Jess",         array("Social Secretary"),             "jess.jpg"); ?>
-		<?php committeeMember("Chris Young",     "Chris",        array("Press &amp; Publicity"),        "chris.jpg"); ?>
-		<?php committeeMember("Philip Morrell",  "Pem",          array("Webmaster"),                    "pem.jpg"); ?>
+		<?php committeeMember("Steve Eyre",       "Steve",   array("Captain"),                       "steve.jpg"); ?>
+		<?php committeeMember("Rachel McCulloch", "Rachel",  array("Women's Captain"),               "rachel.jpg"); ?>
+		<?php committeeMember("Cameron Godfrey",  "Cameron", array("Vice Captain"),                  "cameron.jpg"); ?>
+		<?php committeeMember("Hamish MacIver",   "Hamish",  array("President"),                     "hamish.jpg"); ?>
+		<?php committeeMember("Laura Coull",      "Laura",   array("Treasurer"),                     "laura.jpg"); ?>
+		<?php committeeMember("Jessica Bonham",   "Jess",    array("Secretary", "Social Secretary"), "jess.jpg"); ?>
+		<?php committeeMember("Jody Martin",      "Jody",    array("Social Secretary"),              "jody.jpg"); ?>
+		<?php committeeMember("Lola Denham",      "Lola",    array("Press &amp; Publicity"),         "lola.jpg"); ?>
+		<?php committeeMember("Dave",             "Dave",    array("Merchandise"),                   "dave.jpg"); ?>
+		<?php committeeMember("Philip Morrell",   "Pem",     array("Webmaster"),                     "pem.jpg"); ?>
 
 	</tbody>
 </table>
