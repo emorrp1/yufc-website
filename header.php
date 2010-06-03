@@ -51,9 +51,11 @@
 				<h3>News</h3>
 				<?php include('news.php'); ?>
 				<h3>Photos</h3>
+<!--
 				<div id="slideshow">
 					<p><a class="comment" href="http://www.flickr.com/search/?q=york+ultimate+frisbee&amp;m=tags">Click here if you can't see the slideshow</a></p>
 				</div>
+-->
 				<p>
 					<a class="external link comment" target="_blank" href="http://www.flickr.com/slideShow/index.gne?tags=york,ultimate,frisbee" onclick="window.open('http://www.flickr.com/slideShow/index.gne?tags=york,ultimate,frisbee','yorkultimatephotos','height=540,width=450,scrollbars=no,menubar=no,status=no,toolbar=no,titlebar=no');return false;">More photos...</a>
 				</p>
