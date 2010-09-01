@@ -36,7 +36,7 @@
 	</p>
 
 <h3 id="play">I Want to Play!</h3>
-<p>Want to give it a go? Don't be shy, we won't bite! Have a look and see when the next training session or social is on the <a href="calendar.php">Calendar</a> and join the <a href="contact.php#yahoo">Yahoo Group</a> for updates.</p>
+<p>Want to give it a go? Don't be shy, we won't bite! Have a look and see when the next training session or social is on the <a href="calendar.php">Calendar</a> and join the <a href="contact.php#list">Mailing List</a> for updates.</p>
 
 <?php
 	include('footer.php');

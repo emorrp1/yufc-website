@@ -16,7 +16,7 @@
 			var slideshow = new flickrshow("slideshow", {
 				"autoplay":true,
 				"interval":4000,
-				"per_page":25,
+				"per_page":15,
 				"tags":"yorkultimate"
 			});
 		//]]> </script>
