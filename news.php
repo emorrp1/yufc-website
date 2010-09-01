@@ -1,9 +1,9 @@
 <p>
-	York Ultimate excelled this Spring, reaching 6th in University Mixed Indoor Nationals in Glasgow, whilst winning the Spirit of the Game award and entering many other tournaments, both serious and fun!
+	Welcome, Freshers of 2010! You will find us in the Sports Centre "Tent" at freshers fair. Why not give Ultimate a try at a special beginners training? <b>Sun week 1, 12pm @ 22 Acres</b> (near Halifax)
 </p>
 <p>
-	Thanks to an excellent elections evening, we now have a new <a href="about.html#committee">committee</a>, with all new captains to run training sessions.
+	York Ultimate excelled last Spring, reaching 6th in University Mixed Indoor Nationals in Glasgow, whilst winning the Spirit of the Game award! Can we do better this year?
 </p>
 <p>
-	We're moving the Club mailing list from Yahoo Groups to York Lists, to make it easier for our freshers to manage. You can sign yourselves up <a href="https://lists.york.ac.uk/mailman/listinfo/ultimate-club">here</a>.
+	Upload photos to <a href="http://www.flickr.com">Flickr</a> and tag them with "yorkultimate" to put them in the slideshow.
 </p>
