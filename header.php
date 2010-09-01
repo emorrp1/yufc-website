@@ -12,7 +12,7 @@
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
 		*/ ?>
 		<link rel="stylesheet" type="text/css" href="css/flickrshow.css" /> <!-- http://www.flickrshow.com -->
-		<link rel="alternate" href="http://api.flickr.com/services/feeds/photos_public.gne?tags=york%2Cultimate%2Cfrisbee" type="application/rss+xml" title="" id="gallery" />
+		<link rel="alternate" href="http://api.flickr.com/services/feeds/photos_public.gne?tags=yorkultimate" type="application/rss+xml" title="" id="gallery" />
 		<script type="text/javascript" src="js/cookies.js"></script>
 		<link rel="shortcut icon" href="images/favicon.ico"/>
 		<?php echo $head_include; ?>
@@ -51,13 +51,12 @@
 				<h3>News</h3>
 				<?php include('news.php'); ?>
 				<h3>Photos</h3>
-<!--
 				<div id="slideshow">
-					<p><a class="comment" href="http://www.flickr.com/search/?q=york+ultimate+frisbee&amp;m=tags">Click here if you can't see the slideshow</a></p>
+					<p><a class="comment" href="http://www.flickr.com/search/?q=yorkultimate&m=tags">Click here if you can't see the slideshow</a></p>
 				</div>
--->
-				<p>
-					<a class="external link comment" target="_blank" href="http://www.flickr.com/slideShow/index.gne?tags=york,ultimate,frisbee" onclick="window.open('http://www.flickr.com/slideShow/index.gne?tags=york,ultimate,frisbee','yorkultimatephotos','height=540,width=450,scrollbars=no,menubar=no,status=no,toolbar=no,titlebar=no');return false;">More photos...</a>
-				</p>
+				<!-- Only display more photos link if javascript is enabled -->
+				<script type="text/javascript"> //<![CDATA[
+					document.write('<p><a class="external link" href="http://www.flickr.com/search/show/?q=yorkultimate&m=tags">More photos...</a></p>');
+				//]]> </script>
 			</div>
 			<div id="body">

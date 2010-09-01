@@ -11,24 +11,14 @@
 			</div>
 		</div><?php /* page */ ?>
 		<!-- flickr slideshow code: (placed here to delay loading) -->
-		<script type="text/javascript" src="http://v6.flickrshow.com/scripts/with/"></script>
-		<script type="text/javascript">
-		//<![CDATA[
-				var cesc = new flickrshow("slideshow", {flickr_tags:"york,ultimate,frisbee", speed:4, theme:"none"});
-				// start the slideshow when UI loaded
-				Event.observe(window, 'load', function(){	// uses Prototype (included in flickrshow)
-					var sl = setInterval(function() {
-						if (cesc && cesc.fs && cesc.fs.buttons == 1) {
-							lastImage = getCookie("lastImage");
-							if (lastImage != "") {cesc.slideManual(lastImage);}
-							cesc.clickPlay();
-							setInterval(function() {
-								setCookie("lastImage",cesc.cs.viewed,1);
-							}, 4000);
-							clearInterval(sl);
-						}}, 600);
-				});
-		//]]>
-		</script>
+		<script type="text/javascript" src="http://api.flickrshow.com/v7/flickrshow.js"></script>
+		<script type="text/javascript"> //<![CDATA[
+			var slideshow = new flickrshow("slideshow", {
+				"autoplay":true,
+				"interval":4000,
+				"per_page":25,
+				"tags":"yorkultimate"
+			});
+		//]]> </script>
 	</body>
 </html>
